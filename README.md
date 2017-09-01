@@ -24,7 +24,7 @@ A desktop application to automatically crawl data from Compare First and save re
 
 Here is a screen shot of the app:
 
-![Image structure not found](https://github.com/nguyenpham95/compareFirst-release/blob/master/shot/app.png)<br/>
+![Image structure not found](https://github.com/nguyenpham95/compareFirst-release/blob/master/shot/app.PNG)<br/>
 
 #### Actions
 
@@ -32,10 +32,10 @@ To manually search and save data to server, follow these steps:
 
 ```sh
 
-First: click LOAD PAGE button
-Second: insert searching criteria
-Third: click MODIFY SEARCH button on the page
-Final: review result returned on the page and click SAVE DATA button
+First: click LOAD PAGE button (right pannel)
+Second: insert searching criteria into the page (left pannel)
+Third: click MODIFY SEARCH button on the page (left pannel)
+Final: review result returned on the page and click SAVE DATA button (right pannel)
 
 ```
 
@@ -43,10 +43,10 @@ To automatically search and save data to server, follow these steps:
 
 ```sh
 
-First: in the PRODUCT GROUP, select a GROUP that correspond to either 1 of the 5 groups in the original page
-Second: input date to search, from which day to which day
-Third: Hit START and see the result crawled and migrated to EC2 server
-Final: Hit STOP at anytime to stop the operation
+First: in the PRODUCT GROUP (right pannel), select a GROUP that correspond to either 1 of the 5 groups in the original page 
+Second: input date to search, from which day to which day (right pannel)
+Third: Hit START (right pannel) and see the result crawled and migrated to EC2 server
+Final: Hit STOP (right pannel) at anytime to stop the operation
 
 ```
 
