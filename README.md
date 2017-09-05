@@ -11,7 +11,7 @@ A desktop application to automatically crawl data from Compare First and save re
 
 Added features: start the automatic request from a specific time. Please refer image below:
 
-![Image structure not found](https://github.com/nguyenpham95/compareFirst-release/blob/master/shot/update.PNG)<br/>
+![Image structure not found](https://github.com/nguyenpham95/compareFirst-release/blob/master/shot/update.png)<br/>
 
 NOTE: When running automatic requests, if the process is disrupted during the execution (power down, slow internet ...), users can restart the process from a specific request number instead of running from the very beginning. 
 
