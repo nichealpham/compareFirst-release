@@ -5,7 +5,7 @@
 A desktop application to automatically crawl data from Compare First and save result to AWS EC2 
 
 * Visit original: [http://www.comparefirst.sg/wap/homeEvent.action](http://www.comparefirst.sg/wap/homeEvent.action)
-* Visit database server (available soon): [http://13.228.111.11/api/product/list](http://13.228.111.11/api/product/list)
+* Visit database page: [http://13.228.111.11](http://13.228.111.11)
 
 ### Latest update v1.0.2
 
