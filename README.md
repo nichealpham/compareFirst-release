@@ -1,4 +1,4 @@
-# Compare First
+# Compare First v1.0.2
 
 <img align="right" src="http://namtech.com.au/wp-content/uploads/2017/04/color-logo.svg" hspace="20" vspace="10" width="320">
 
@@ -6,6 +6,14 @@ A desktop application to automatically crawl data from Compare First and save re
 
 * Visit original: [http://www.comparefirst.sg/wap/homeEvent.action](http://www.comparefirst.sg/wap/homeEvent.action)
 * Visit database server (available soon): [http://13.228.111.11/api/product/list](http://13.228.111.11/api/product/list)
+
+### Latest update v1.0.2
+
+Added features: start the automatic request from a specific time. Please refer image below:
+
+![Image structure not found](https://github.com/nguyenpham95/compareFirst-release/blob/master/shot/update.PNG)<br/>
+
+NOTE: When running automatic requests, if the process is disrupted during the execution (power down, slow internet ...), users can restart the process from a specific request number instead of running from the very beginning. 
 
 ### Features
 
